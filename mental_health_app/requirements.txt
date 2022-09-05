@@ -1,0 +1,21 @@
+# Unittest
+coverage==6.3.3
+
+# Code analysis
+bandit==1.7.4
+#metrics.pylint
+flake8
+flake8-docstrings
+flake8-polyfill
+pylint==2.13.9
+radon
+cohesion
+
+# Documentation
+pdoc3
+sphinx==4.5.0
+future~=0.18.2
+mysql~=0.0.3
+mysql-connector-python==8.0.29
+tkcalendar~=1.6.1
+matplotlib~=3.5.2
